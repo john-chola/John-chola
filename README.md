@@ -10,7 +10,7 @@
 
 ## 🚀 Featured projects
 
-### [ZamMarket](https://github.com/john-chola/ZamMarket) · [Live demo](https://zammarket.vercel.app)
+### [ZamMarket](https://github.com/john-chola/ZamMarket) · [Live demo](https://zam-market-khaki.vercel.app)
 A progressive web app connecting charcoal sellers and buyers in Lusaka (final year project).
 Real-time chat · offline listings with background sync · voice listing in English, Nyanja and Bemba · seller trust scores · admin dashboard
 
