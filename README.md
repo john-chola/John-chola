@@ -16,7 +16,7 @@ Real-time chat · offline listings with background sync · voice listing in Engl
 
 `React` `Redux Toolkit` `Node.js` `Express` `MongoDB Atlas` `Socket.io` `Cloudinary` `PWA`
 
-### [Clinic Queue](https://github.com/john-chola/clinic-queue) · [Live demo](https://clinic-queue.vercel.app)
+### [Clinic Queue](https://github.com/john-chola/clinic-queue) · [Live demo](https://clinic-queue-pied.vercel.app/)
 Patients scan a QR code, take a number, and watch their place in the queue live, so they can wait outside instead of guessing.
 Live wait estimates · one-tap "Next patient" for staff · waiting-room display that reads numbers aloud · reports
 
