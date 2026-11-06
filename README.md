@@ -1,10 +1,12 @@
 # Hi, I'm John Chola 👋
 
-**Full-stack web developer from Lusaka, Zambia.** I build web and mobile apps that solve everyday local problems, like finding a charcoal seller nearby or knowing how fast the clinic queue is moving.
+**Full-stack web developer from Lusaka, Zambia.** I build web and mobile apps that solve everyday local problems, like finding a charcoal seller nearby, knowing when the power goes off, or seeing how fast the clinic queue is moving.
 
 - 🎓 Computer Science (Software Engineering) graduate, University of Zambia
 - 🖥️ Currently on attachment at UNZA's Center for Information and Communication Technology (IT support)
 - 💼 Open to freelance work: web development and IT support
+- 🌐 Portfolio: [john-chola.github.io](https://john-chola.github.io)
+- 📫 Reach me: jchola608@gmail.com · [Upwork](https://www.upwork.com/freelancers/~01ef020f0465f8dcc7)
 
 ---
 
@@ -22,6 +24,18 @@ Live wait estimates · one-tap "Next patient" for staff · waiting-room display 
 
 `React` `Node.js` `Express` `MongoDB` `Socket.io` `Jest`
 
+### [Magetsi](https://github.com/john-chola/Magetsi) · [Live demo](https://john-chola.github.io/Magetsi/)
+ZESCO load-shedding schedules, alerts before power goes off and comes back, and a one-tap outage log that shows how well each area's schedule is kept.
+Push and SMS alerts · 164 areas in 5 towns · reliability stats per area · public dashboard with CSV export · 64 automated tests
+
+`Node.js` `JavaScript` `SQLite` `Web Push` `SMS API` `PWA`
+
+### [KwachaTrack](https://github.com/john-chola/KwachaTrack) *(in development)*
+An Android app that reads MTN MoMo, Airtel Money and Zamtel Kwacha SMS messages and shows where your money goes, with no manual entry.
+Automatic categories that learn from you · spending insights · no internet permission · encrypted on-device database · CSV export
+
+`Kotlin` `Jetpack Compose` `Room` `SQLCipher` `WorkManager` `GitHub Actions`
+
 ### [Pact](https://github.com/john-chola/pact)
 A mobile app for 7-day accountability sprints in small groups of developers.
 Daily check-ins · streaks · live group feed · push-notification nudges · rules enforced in the database
@@ -37,11 +51,12 @@ A point-of-sale system for bookstores covering sales, inventory, returns, branch
 
 ## 🛠️ Tech stack
 
-**Languages:** JavaScript · TypeScript · Python · Java · HTML · CSS
-**Frontend:** React · Redux Toolkit · React Native (Expo) · Vite
-**Backend:** Node.js · Express · Django REST Framework · Socket.io
-**Databases:** MongoDB Atlas · PostgreSQL (Supabase) · SQLite
-**Tools & hosting:** Git · VS Code · Jest · Vercel · Render
+- **Languages:** JavaScript · TypeScript · Python · Java · Kotlin · HTML · CSS
+- **Frontend:** React · Redux Toolkit · Vite · Progressive Web Apps
+- **Mobile:** Android (Kotlin, Jetpack Compose, Room) · React Native (Expo)
+- **Backend:** Node.js · Express · Django REST Framework · Socket.io
+- **Databases:** MongoDB Atlas · PostgreSQL (Supabase) · SQLite
+- **Tools & hosting:** Git · GitHub Actions · VS Code · Android Studio · Jest · Vercel · Render
 
 ---
 
